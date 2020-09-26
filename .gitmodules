@@ -1,9 +1,6 @@
 [submodule "phase-transitions-in-metapopulation-synchrony"]
 	path = phase-transitions-in-metapopulation-synchrony
 	url = https://github.com/gottacatchenall/phase-transitions-in-metapopulation-synchrony
-[submodule "simulation-based-framework-for-landscape-design"]
-	path = simulation-based-framework-for-landscape-design
-	url = https://github.com/gottacatchenall/simulation-based-framework-for-landscape-design
 [submodule "estimating_dispersal_from_synchrony"]
 	path = estimating_dispersal_from_synchrony
 	url = https://github.com/gottacatchenall/estimating_dispersal_from_synchrony
