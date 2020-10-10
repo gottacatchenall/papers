@@ -10,3 +10,6 @@
 [submodule "dispersal_diffusion_approximation/writing/when_can_we_approximate_dispersal_with_diffusion"]
 	path = dispersal_diffusion_approximation/writing/when_can_we_approximate_dispersal_with_diffusion
 	url = https://github.com/gottacatchenall/when_can_we_approximate_dispersal_with_diffusion
+[submodule "when_can_we_approxiate_dispersal_w_diffusion"]
+	path = when_can_we_approxiate_dispersal_w_diffusion
+	url = https://github.com/gottacatchenall/when_can_we_approxiate_dispersal_w_diffusion
