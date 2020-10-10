@@ -7,3 +7,6 @@
 [submodule "simulation-based-framework-for-landscape-design"]
 	path = simulation-based-framework-for-landscape-design
 	url = https://github.com/gottacatchenall/simulation-based-framework-for-landscape-design
+[submodule "dispersal_diffusion_approximation/writing/when_can_we_approximate_dispersal_with_diffusion"]
+	path = dispersal_diffusion_approximation/writing/when_can_we_approximate_dispersal_with_diffusion
+	url = https://github.com/gottacatchenall/when_can_we_approximate_dispersal_with_diffusion
